@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Lemon Milk";
-    src: url("../assets/fonts/lemon_milk/LEMONMILK-Bold.otf");
+    src: url("../assets/fonts/lemon_milk/LEMONMILK-Regular.otf");
 }
 
 body{
@@ -63,7 +63,9 @@ header nav ul li a{
     font-size: 1em;
     text-decoration: none;
     color: #1b1958;
+    display: flex;
 }
+
 .img-fondo{
     background-image: url("../assets/img/LOGO\ MF\ PNG\ COLOR.png");
     background-repeat: no-repeat;
